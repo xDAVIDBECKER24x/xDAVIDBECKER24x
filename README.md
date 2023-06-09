@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Lingaugens
+## Linguagens
+
 <div float="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -26,14 +27,16 @@ Here are some ideas to get you started:
 <div float="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
+
 ## Ferramentas e Tecnologias
+
 <div float="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
           
-                   
+<hr>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
