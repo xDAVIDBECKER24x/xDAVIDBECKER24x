@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### Contact Me
 
-<a href="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:drcarollo123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 ### Linguagens
