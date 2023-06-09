@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 -->
 ### Contact Me
 
+<a href="https://www.linkedin.com/in/david-ricardo-da-rosa-carollo-5a1581184/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/5511979841811"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:drcarollo123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+<a href="https://www.instagram.com/Beckynhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 ### Linguagens
 
