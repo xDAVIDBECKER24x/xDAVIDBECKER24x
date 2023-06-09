@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 </div>
           
           
-![Snake animation](https://github.com/seu-usuário-aqui/xDAVIDBECKER24x/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xDAVIDBECKER24x/xDAVIDBECKER24x/blob/output/github-contribution-grid-snake.svg)
