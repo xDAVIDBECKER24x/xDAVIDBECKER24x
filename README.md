@@ -2,6 +2,7 @@
 <h1>Hi there 👋 I'm David</h1>
 
 
+Software developer with four years of experience in the industry. GitHub has been my platform of choice for showcasing my work and collaborating with other developers. I have worked on a variety of projects, ranging from web development to mobile applications, and have actively contributed to many projects.
 <!--
 **xDAVIDBECKER24x/xDAVIDBECKER24x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 <a href="mailto:drcarollo123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/Beckynhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-### Linguagens
+### Programming Languages
 
 <div float="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 
 <div float="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
