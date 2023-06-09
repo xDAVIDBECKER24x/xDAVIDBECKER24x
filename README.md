@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Lingaugens
-
+<div float="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+</div>
 
 ## Frameworks
 
