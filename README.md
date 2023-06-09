@@ -13,6 +13,8 @@
 
 Software developer with four years of experience in the industry. GitHub has been my platform of choice for showcasing my work and collaborating with other developers. I have worked on a variety of projects, ranging from web development to mobile applications, and have actively contributed to many projects.
 
+<hr>
+
 <!--
 **xDAVIDBECKER24x/xDAVIDBECKER24x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -73,7 +75,7 @@ Here are some ideas to get you started:
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
   
-
+<br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDAVIDBECKER24x&layout=compact&langs_count=7&theme=dracula"/>
