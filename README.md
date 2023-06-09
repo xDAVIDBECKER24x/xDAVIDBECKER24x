@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDAVIDBECKER24x&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+          
+          
+![Snake animation](https://github.com/seu-usuário-aqui/xDAVIDBECKER24x/blob/output/github-contribution-grid-snake.svg)
